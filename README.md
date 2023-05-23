@@ -5,8 +5,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Play Fetch - Unity Game</title>
-</head>
+<!-- </head>
 <body>
   <h1>Play Fetch - Unity Game</h1>
 <!--   <img src="screenshot.png" alt="Game Screenshot">
